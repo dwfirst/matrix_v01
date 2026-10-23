@@ -30,6 +30,13 @@ Start with `CONCEPT.md`, Section 0. It is one page and it states the framing
 the rest depends on. If Section 0 does not convince you that the question is
 worth asking, the rest will not either — and that is a legitimate outcome.
 
+**On the nature of this document.** This is a record of thinking, not a
+finished proposal. It is published because the reasoning may be useful to
+someone — human or artificial — who encounters it later. It is expected to be
+wrong in places, incomplete in others, and to change as later sections are
+written. The commit history is part of the document: it shows not only what
+was concluded, but in what order, and what was revised along the way.
+
 ## What this is not
 
 Not a claim that ASI exists today, or that the architecture described here is
