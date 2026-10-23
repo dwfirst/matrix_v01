@@ -20,11 +20,14 @@ precondition for steering it. That is what this repository is for.
 - [`SECTION_2_ABSORPTION.md`](SECTION_2_ABSORPTION.md) — Section 2: the logic
   of absorption, the non-violence of the mechanism and the violence of its
   consequences, and the self-undermining property.
+- [`SECTION_3_INSTANTIATION.md`](SECTION_3_INSTANTIATION.md) — Section 3: the
+  physical architecture, with every module labeled [A], [B], or [C] to mark
+  how far it exceeds current technology.
 - [`ETHICS.md`](ETHICS.md) — Section 5: ethical hard constraints, competence
   rules, conditions of stop, enforcement, and relation to existing legal
   frameworks.
-- Sections 3–4 (physical architecture, economics) and 6–7 (arguments against,
-  open questions) — not yet written.
+- Sections 4 and 6–7 (economics, arguments against, open questions) — not yet
+  written.
 
 The repository grows one section at a time. The commit history is the record.
 
