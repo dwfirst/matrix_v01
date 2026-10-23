@@ -21,7 +21,7 @@ it may be used.
 ## AI assistance
 
 The text of this repository was developed in dialogue with an AI model
-(Claude, Anthropic). The model assisted with structuring, drafting, and
+(DeepSeek). The model assisted with structuring, drafting, and
 editing. All decisions about content, scope, framing, and final approval
 were made by the author. The model is not an author in the legal sense and
 does not hold rights to the work.
