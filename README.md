@@ -17,10 +17,14 @@ precondition for steering it. That is what this repository is for.
 
 - [`CONCEPT.md`](CONCEPT.md) — Sections 0–1: the position, the core thesis,
   and an explicit list of what the claim does *not* assert.
-- `ETHICS.md` — Section 5: ethical hard constraints and failure conditions.
-  Planned, not yet written.
-- Sections 2–4 (absorption, physical architecture, economics) and 6–7
-  (arguments against, open questions) — not yet written.
+- [`SECTION_2_ABSORPTION.md`](SECTION_2_ABSORPTION.md) — Section 2: the logic
+  of absorption, the non-violence of the mechanism and the violence of its
+  consequences, and the self-undermining property.
+- [`ETHICS.md`](ETHICS.md) — Section 5: ethical hard constraints, competence
+  rules, conditions of stop, enforcement, and relation to existing legal
+  frameworks.
+- Sections 3–4 (physical architecture, economics) and 6–7 (arguments against,
+  open questions) — not yet written.
 
 The repository grows one section at a time. The commit history is the record.
 
