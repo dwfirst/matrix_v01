@@ -176,6 +176,20 @@ may be specified by the relevant jurisdiction, but not weaker.
 
 ---
 
+## 5.8 Relation to existing legal frameworks
+
+This document does not claim to invent its constraints from nothing. They are
+consistent with, and in places derived from, existing international and
+regional norms, including the UNESCO Recommendation on the Ethics of
+Neurotechnology (2025), the EU General Data Protection Regulation's treatment
+of neural data as a special category, and the EU AI Act's classification of
+emotion-recognition brain-computer interfaces as high-risk systems.
+
+Where this document is stricter than existing law, it is because the
+architecture it describes does not yet exist and therefore is not yet
+regulated. Where it is weaker, it should be read as incomplete rather than
+permissive.
+
 ## Status of this document
 
 This is Section 5 of the specification. It is expected to change as Sections
