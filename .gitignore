@@ -1,0 +1,26 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Node (на случай если стек будет JS)
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Local notes / drafts (не для публикации)
+*.local.*
+notes/
+tmp/
