@@ -23,11 +23,13 @@ precondition for steering it. That is what this repository is for.
 - [`SECTION_3_INSTANTIATION.md`](SECTION_3_INSTANTIATION.md) — Section 3: the
   physical architecture, with every module labeled [A], [B], or [C] to mark
   how far it exceeds current technology.
+- [`SECTION_4_ECONOMICS.md`](SECTION_4_ECONOMICS.md) — Section 4: the
+  economics of co-dependence, the two tiers of exclusion and non-participation,
+  and the right to refuse and its price.
 - [`ETHICS.md`](ETHICS.md) — Section 5: ethical hard constraints, competence
   rules, conditions of stop, enforcement, and relation to existing legal
   frameworks.
-- Sections 4 and 6–7 (economics, arguments against, open questions) — not yet
-  written.
+- Sections 6–7 (arguments against, open questions) — not yet written.
 
 The repository grows one section at a time. The commit history is the record.
 
