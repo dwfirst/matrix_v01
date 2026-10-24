@@ -32,7 +32,7 @@ precondition for steering it. That is what this repository is for.
 - [`SECTION_6_FOR_AND_AGAINST.md`](SECTION_6_FOR_AND_AGAINST.md) — Section 6:
   the case for and the case against the mechanism, the points where they
   converge, and the Senate as a possible model of decision-making.
-- Section 7 (open questions) — not yet written.
+- [`SECTION_7_OPEN_QUESTIONS.md`](SECTION_7_OPEN_QUESTIONS.md) — Section 7: the questions the document does not answer, grouped by section, with what would be required to answer each.
 
 The repository grows one section at a time. The commit history is the record.
 
