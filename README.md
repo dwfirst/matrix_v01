@@ -29,7 +29,10 @@ precondition for steering it. That is what this repository is for.
 - [`ETHICS.md`](ETHICS.md) — Section 5: ethical hard constraints, competence
   rules, conditions of stop, enforcement, and relation to existing legal
   frameworks.
-- Sections 6–7 (arguments against, open questions) — not yet written.
+- [`SECTION_6_FOR_AND_AGAINST.md`](SECTION_6_FOR_AND_AGAINST.md) — Section 6:
+  the case for and the case against the mechanism, the points where they
+  converge, and the Senate as a possible model of decision-making.
+- Section 7 (open questions) — not yet written.
 
 The repository grows one section at a time. The commit history is the record.
 
